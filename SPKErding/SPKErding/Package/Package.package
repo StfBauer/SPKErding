@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="408f8897-383f-4387-bffc-9dbc78d3d6ca" 
+        solutionId="408f8897-383f-4387-bffc-9dbc78d3d6ca" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SPKErding"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="ae440def-c803-4389-8427-1a5f4d5a1cc4" />
+  </features>
+</package>
